@@ -1,12 +1,14 @@
-package com.singh.social;
+package com.singh.social.login;
 
 import android.databinding.ObservableField;
 import android.text.TextUtils;
 import android.widget.Toast;
 
+import com.singh.social.base.BaseViewModel;
+
 import io.reactivex.Observable;
 
-public class LoginViewModel extends BaseViewModel<LoginView>{
+public class LoginViewModel extends BaseViewModel<LoginView> {
 
     public ObservableField<String> mEmail = new ObservableField<>();
 

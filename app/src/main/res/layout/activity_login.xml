@@ -3,7 +3,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.singh.social.LoginViewModel"/>
+            type="com.singh.social.login.LoginViewModel"/>
 
     </data>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"

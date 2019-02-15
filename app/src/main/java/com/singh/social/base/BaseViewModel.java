@@ -1,4 +1,4 @@
-package com.singh.social;
+package com.singh.social.base;
 
 import io.reactivex.disposables.CompositeDisposable;
 

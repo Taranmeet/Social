@@ -1,10 +1,11 @@
-package com.singh.social;
+package com.singh.social.login;
 
 import android.content.Context;
 import android.databinding.DataBindingUtil;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
+import com.singh.social.R;
 import com.singh.social.databinding.ActivityLoginBinding;
 
 
